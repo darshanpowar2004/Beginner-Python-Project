@@ -7,7 +7,3 @@ A collection of simple Python programs designed for beginners to learn and pract
 - Covers basic Python topics like variables, loops, functions, and file handling  
 - Perfect for building a strong foundation in Python  
 
-## Getting Started  
-1. Clone this repository:  
-   ```bash
-   git clone https://github.com/yourusername/beginner-python-project.git
